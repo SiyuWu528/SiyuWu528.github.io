@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<p><img style="float:right; padding-left:10px" src="images/image.jpg" width="220" height="220" /></p>
+<p><img style="float:right; padding-left:10px" src="http://Siyuwu528.github.io/images/image.jpg" width="220" height="220" /></p>
 
 
 ### More Information
