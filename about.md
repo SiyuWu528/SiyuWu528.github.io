@@ -56,7 +56,7 @@ permalink: /about/
   <h1>About</h1>
 
   <div class="entry">
-    <p><img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220" /></p>
+    <p><img style="float:right; padding-left:10px" src="images/image.jpg" width="220" height="220" /></p>
 
 <p>I obtained my PhD from Princeton University, advised by <a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>.</p>
 
