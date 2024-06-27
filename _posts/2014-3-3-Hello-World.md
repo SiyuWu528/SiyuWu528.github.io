@@ -1,26 +1,59 @@
 ---
 layout: post
-title: Unveiling Cognitive Architecture: Innovations in Neural Symbolic Systems
-This is a detailed overview of our latest research paper, presented at the international conference on Neural Information Processing Systems (NeurIPS).
+title: Markdown Style Guide
+---
 
-Paper Title: "VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions"
-Authors: Siyu Wu, Alessandro Oltramari
+This is a demo of all styled elements in Jekyll Now.
 
-View the paper here.
+[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
 
-This paper explores the integration of neural symbolic architecture into manufacturing solutions, aiming to enhance automation processes with cognitive capabilities.
+This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
-Presentation Slides
-Access the presentation slides to dive deeper into our research:
-Download slides
+## Header 2 (H1 is reserved for post titles)##
 
-Media Coverage
-For an external perspective on our research impact and implications:
-Read the featured article
+### Header 3
 
-Siyu Wu (First Author)
-Alessandro Oltramari (Co-author)
-Cognitive Architecture Integration
+#### Header 4
+
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+
+An image, located within /images
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
+
+1. An
+2. ordered
+3. list
+
+Inline markup styles:
+
+- _italics_
+- **bold**
+- `code()`
+
+> Blockquote
+>> Nested Blockquote
+
+Syntax highlighting can be used with triple backticks, like so:
+
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
+
+Use two trailing spaces  
+on the right  
+to create linebreak tags  
+
+Finally, horizontal lines
+
+----
+****
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
