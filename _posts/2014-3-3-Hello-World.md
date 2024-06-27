@@ -1,6 +1,36 @@
 ---
 layout: post
-title: You're up and running!
+title: Unveiling Cognitive Architecture: Innovations in Neural Symbolic Systems
+This is a detailed overview of our latest research paper, presented at the international conference on Neural Information Processing Systems (NeurIPS).
+
+Paper Title: "VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions"
+Authors: Siyu Wu, Alessandro Oltramari
+
+View the paper here.
+
+This paper explores the integration of neural symbolic architecture into manufacturing solutions, aiming to enhance automation processes with cognitive capabilities.
+
+Presentation Slides
+Access the presentation slides to dive deeper into our research:
+Download slides
+
+Media Coverage
+For an external perspective on our research impact and implications:
+Read the featured article
+
+More Resources
+For more insights and resources related to our research:
+
+Research repository
+Project documentation
+Repository Link
+Slides
+Media Coverage
+Inline markup styles:
+
+Siyu Wu (First Author)
+Alessandro Oltramari (Co-author)
+Cognitive Architecture Integration
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
