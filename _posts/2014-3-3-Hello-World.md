@@ -18,16 +18,6 @@ Media Coverage
 For an external perspective on our research impact and implications:
 Read the featured article
 
-More Resources
-For more insights and resources related to our research:
-
-Research repository
-Project documentation
-Repository Link
-Slides
-Media Coverage
-Inline markup styles:
-
 Siyu Wu (First Author)
 Alessandro Oltramari (Co-author)
 Cognitive Architecture Integration
