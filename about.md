@@ -16,43 +16,31 @@ permalink: /about/
             <h1 class="site-name">
               <a href="/">Shunyu Yao</a>
               <!--<small> <small> <small> 
-<a href="mailto:shunyuy@princeton.edu"><i class="svg-icon email"></i></a>
-<a href="/blog"><i class="svg-icon blog"></i></a>
-
-
-<a href="https://scholar.google.com/citations?user=qJBXk9cAAAAJ"><i class="svg-icon googlescholar"></i></a>
-<a href="https://github.com/ysymyth"><i class="svg-icon github"></i></a>
-
-
-
-
-<a href="https://www.twitter.com/ShunyuYao12"><i class="svg-icon twitter"></i></a>
-
-
+<a href="mailto:sfw5621@psu.edu"><i class="svg-icon email"></i></a>
+<a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN"><i class="svg-icon googlescholar"></i></a>
+<a href="https://github.com/SiyuWu528"><i class="svg-icon github"></i></a>
+<a href="https://www.linkedin.com/in/siyu-wu-2a38041a0"><i class="svg-icon linkedin"></i></a>
 
  </small> </small> </small>-->
             </h1>
-            <p class="site-description">姚顺雨</p>
+            <p class="site-description">吴思雨</p>
           </div>
 
           <!--<nav>
             <a href="/">About</a>
-            <a href="/blog">Blog</a>
+      
             <a href="/papers">Papers</a>
           </nav> -->
           <nav>
             
-<a href="mailto:shunyuy@princeton.edu"><i class="svg-icon email"></i></a>
+<a href="mailto:sfw5621@psu.edu"><i class="svg-icon email"></i></a>
 <a href="/blog"><i class="svg-icon blog"></i></a>
 
 
-<a href="https://scholar.google.com/citations?user=qJBXk9cAAAAJ"><i class="svg-icon googlescholar"></i></a>
-<a href="https://github.com/ysymyth"><i class="svg-icon github"></i></a>
+<a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN"><i class="svg-icon googlescholar"></i></a>
+<a href="https://github.com/SiyuWu528"><i class="svg-icon github"></i></a>
 
-
-
-
-<a href="https://www.twitter.com/ShunyuYao12"><i class="svg-icon twitter"></i></a>
+<a href="https://www.linkedin.com/in/siyu-wu-2a38041a0"><i class="svg-icon linkedin"></i></a>
 
 
 
