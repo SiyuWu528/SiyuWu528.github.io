@@ -14,7 +14,7 @@ permalink: /about/
 
           <div class="site-info">
             <h1 class="site-name">
-              <a href="/">Shunyu Yao</a>
+              <a href="/">Siyu Wu</a>
               <!--<small> <small> <small> 
 <a href="mailto:sfw5621@psu.edu"><i class="svg-icon email"></i></a>
 <a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN"><i class="svg-icon googlescholar"></i></a>
