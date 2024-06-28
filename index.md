@@ -8,7 +8,7 @@ I passed my PhD qualifying exam with an outstanding score from The Pennsylvania 
 
 In my work, I study <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710">neural symbolic AI</a> and its <a href="http://Siyuwu528.github.io/images/NeSyAI-ACS-2024_extended.pdf" target="_blank">integration with foundation models</a>.
 
-In my life, I dance, sing, walk, and cook for my family.
+In my life, I dance, sing, walk, and cook.
 
 # Selected papers
 
