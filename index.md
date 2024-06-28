@@ -45,7 +45,7 @@ Master Theses <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
 
 # Teaching assist
-- **IST557 Data mining**, Fall 2024, fundamental for MS and PhD in AI & DS tracks [overview](https://bulletins.psu.edu/university-course-descriptions/graduate/ist/)
+- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
 # Recent readings
 多余的人（韩秀）<br>
