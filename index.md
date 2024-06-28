@@ -36,7 +36,7 @@ Wu, S. <br>
 Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
-# Selected Talks
+# Selected talks
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** <br>
      [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
      [proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
@@ -45,7 +45,7 @@ Master Theses <br>
 
 
 
-# Recent Readings
+# Recent readings
 多余的人（韩秀）<br>
 The Worlds I See (Fei-fei Li)<br>
 What Babies Know (Elizabeth Spelke)<br>
