@@ -14,9 +14,9 @@ In my life, I dance, sing, walk, and cook for my family.
 
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
   Siyu Wu, Ferreira, R., Ritter, F. E., Walter., L.<br>
-  Oral presentation <br>
+  AAAI Oral<br>
     [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) |
-    [slides](https://ysymyth.github.io/images/AAAI23_modeling PPT_V5b.pdf)
+    [slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)
 
 ### Contact me
 
