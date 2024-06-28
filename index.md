@@ -41,7 +41,7 @@ Master Theses <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** <br>
      [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
-     [Program Book] (https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
+     [Program Book](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
 
 
 # Recent Readings
