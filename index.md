@@ -10,7 +10,15 @@ In my work, I study <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view
 
 In my life, I dance, sing, walk, and cook for my family.
 
-### Selected Papers
+# Selected papers
+
+- **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation![image](https://github.com/SiyuWu528/SiyuWu528.github.io/assets/112183416/c2a26805-51e9-4432-b622-9d173b319aea)
+** <br>
+  Siyu Wu <br> Ferreira, R., Ritter, F. E., Walter., 
+  PhD Thesis <br>
+    [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
+    [slides](https://ysymyth.github.io/papers/fpo.pdf) |
+    [talk](https://www.youtube.com/watch?v=zwfE6J2BIR4)
 
 
 
