@@ -35,6 +35,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(2)<br>
 Wu, S. <br>
 Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+[model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html)
 
 # Selected talks
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** <br>
