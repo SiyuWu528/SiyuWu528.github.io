@@ -13,19 +13,22 @@ In my life, I dance, sing, walk, and cook for my family.
 # Selected papers
 
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
-  Wu. S, Ferreira, R., Ritter, F. E., Walter., L.<br>
+  <u>Wu. S</u>, Ferreira, R., Ritter, F. E., Walter., L.<br>
   AAAI Symposia 2023 Oral<br>
     [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) |
     [repo](https://github.com/SiyuWu528/GPT-DriveBus) |
     [slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)
 - **Long Road Ahead: Lessons Learned from the (soon to be) Longest Running Cognitive Model** <br>
-  Wu. S, Bagherzadeh, A., Ritter, F. E., Tehranchi, F.<br>
+  <u>Wu. S</u>, Bagherzadeh, A., Ritter, F. E., Tehranchi, F.<br>
   ICCM 2023 Oral<br>
     [paper](https://www.frankritter.com/papers/wuBRT23.pdf) |
     [repo](https://github.com/SiyuWu528/DriveBus) |
-    [slides](siyuwu528.github.io/images/images/ICCM 2023.pdf) |
+    [slides](siyuwu528.github.io/images/ICCM 2023.pdf) |
     [simulation](https://pennstateoffice365-my.sharepoint.com/:v:/r/personal/sfw5621_psu_edu/Documents/DriveBus_2023/3.%20data_collection/Model%20A%20play%20the%20game%20recording.MOV?csf=1&web=1&e=Fbrijw&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI1ZWEyNDBiYS1iZmY1LTQ4M2YtODZiYi03ZjgyMzlhNGIyYmMifX0%3D)
-
+- **Social Enhanced Explainable Recommendation With Knowledge Graph** <br>
+Wu, W., Liu, C., <u>Wu, S</u>., Yuan, L., Ding, R., Zhou, F., Wu, Q.<br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(2)
+    [paper](https://ieeexplore.ieee.org/document/10173618)
 
 ### Contact me
 
