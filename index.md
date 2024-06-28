@@ -37,8 +37,12 @@ Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
 # Selected Talks
-- **<a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">2024 Soar Workshop</a>** [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
-- **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** University of Michigan Institute for Data Science [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf)
+- **<a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">2024 Soar Workshop</a>** <br>
+     [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
+- **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** <br>
+     [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
+     [Program Book] (https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
+
 
 # Recent Readings
 多余的人（韩秀）<br>
