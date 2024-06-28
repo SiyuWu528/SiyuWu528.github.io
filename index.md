@@ -27,8 +27,12 @@ In my life, I dance, sing, walk, and cook for my family.
     [simulation](https://pennstateoffice365-my.sharepoint.com/:v:/r/personal/sfw5621_psu_edu/Documents/DriveBus_2023/3.%20data_collection/Model%20A%20play%20the%20game%20recording.MOV?csf=1&web=1&e=Fbrijw&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI1ZWEyNDBiYS1iZmY1LTQ4M2YtODZiYi03ZjgyMzlhNGIyYmMifX0%3D)
 - **Social Enhanced Explainable Recommendation With Knowledge Graph** <br>
 Wu, W., Liu, C., <u>Wu, S</u>., Yuan, L., Ding, R., Zhou, F., Wu, Q.<br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(2)
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(2)<br>
     [paper](https://ieeexplore.ieee.org/document/10173618)
+- **Modeling a Pandemic: Investigating Student Learning about Disease Spread in the Context of Agent-Based Modeling** <br>
+Wu., S. <br>
+Master Theses <br>
+[paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
 ### Contact me
 
