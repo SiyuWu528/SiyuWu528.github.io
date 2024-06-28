@@ -38,4 +38,4 @@ Master Theses <br>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sfw5621@psu.edu](mailto:sfw5621@psu.edu)
