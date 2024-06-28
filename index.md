@@ -34,7 +34,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(2)<br>
 - **Modeling a Pandemic: Investigating Student Learning about Disease Spread in the Context of Agent-Based Modeling** <br>
 Wu, S. <br>
 Master Theses <br>
-[paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+[paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)|
 [model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html)
 
 # Selected talks
