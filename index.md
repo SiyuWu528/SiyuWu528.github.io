@@ -43,7 +43,8 @@ Master Theses <br>
 - **<a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">2024 Soar Workshop</a>** <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
 
-
+# Teaching assist
+- **IST557 Data mining**, Fall 2024, fundamental for MS and PhD in AI & DS tracks [overview](https://bulletins.psu.edu/university-course-descriptions/graduate/ist/)
 
 # Recent readings
 多余的人（韩秀）<br>
