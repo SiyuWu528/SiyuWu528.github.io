@@ -11,7 +11,7 @@ In my work, I study <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view
 In my life, I dance, sing, walk, and cook.
 
 # Selected papers
-
+<a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN"><u>Google Scholar</u></a> <br>
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
   <u>Wu. S</u>, Ferreira, R., Ritter, F. E., Walter., L.<br>
   AAAI Symposia 2023 Oral<br>
