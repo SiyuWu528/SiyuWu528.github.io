@@ -38,13 +38,11 @@ Master Theses <br>
 
 # Selected Talks
 - **2024 Soar Workshop** [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
-- **Annual Ethical AI symposium, University of Michigan Institute for Data Science** [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf)
+- **2024 Annual Ethical AI symposium** University of Michigan Institute for Data Science [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf)
 
 # Recent Readings
 多余的人（韩秀）<br>
 The Worlds I See (Fei-fei Li)<br>
 What Babies Know (Elizabeth Spelke)<br>
 Friends, Lovers, and the Big Terrible Thing (Matthew Perry)<br>
-(last Updated: July 2024)
-## Contact me
-[sfw5621@psu.edu](mailto:sfw5621@psu.edu)
+(Last updated: July 2024)
