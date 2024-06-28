@@ -15,27 +15,34 @@ In my life, I dance, sing, walk, and cook.
 
 # Selected papers
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
-  <u>Wu. S</u>, Ferreira, R., Ritter, F. E., Walter., L.<br>
+  <u>Wu, S.</u>, Ferreira, R., Ritter, F. E., Walter., L.<br>
   AAAI Symposia 2023 Oral<br>
     [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) |
     [repo](https://github.com/SiyuWu528/GPT-DriveBus) |
     [slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)
 - **Long Road Ahead: Lessons Learned from the (soon to be) Longest Running Cognitive Model** <br>
-  <u>Wu. S</u>, Bagherzadeh, A., Ritter, F. E., Tehranchi, F.<br>
+  <u>Wu, S.</u> Bagherzadeh, A., Ritter, F. E., Tehranchi, F.<br>
   ICCM 2023 Oral<br>
     [paper](https://www.frankritter.com/papers/wuBRT23.pdf) |
     [repo](https://github.com/SiyuWu528/DriveBus) |
     [slides](https://siyuwu528.github.io/images/ICCM 2023.pdf) |
     [simulation](https://pennstateoffice365-my.sharepoint.com/:v:/r/personal/sfw5621_psu_edu/Documents/DriveBus_2023/3.%20data_collection/Model%20A%20play%20the%20game%20recording.MOV?csf=1&web=1&e=Fbrijw&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI1ZWEyNDBiYS1iZmY1LTQ4M2YtODZiYi03ZjgyMzlhNGIyYmMifX0%3D)
 - **Social Enhanced Explainable Recommendation With Knowledge Graph** <br>
-Wu, W., Liu, C., <u>Wu, S</u>., Yuan, L., Ding, R., Zhou, F., Wu, Q.<br>
+Wu, W., Liu, C., <u>Wu, S.</u>., Yuan, L., Ding, R., Zhou, F., Wu, Q.<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 36(2)<br>
     [paper](https://ieeexplore.ieee.org/document/10173618)
 - **Modeling a Pandemic: Investigating Student Learning about Disease Spread in the Context of Agent-Based Modeling** <br>
-Wu., S. <br>
+Wu, S. <br>
 Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
-### Contact me
+# Selected Talks
+- **2024 Soar Workshop** <br> [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)
+- **Annual Ethical AI symposium, University of Michigan Institute for Data Science** [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf)
 
+# Recent Readings
+多余的人（韩秀）
+The Worlds I See (Fei-fei Li)
+What Babies Know (Elizabeth Spelke)
+Friends, Lovers, and the Big Terrible Thing (Matthew Perry)
 [sfw5621@psu.edu](mailto:sfw5621@psu.edu)
