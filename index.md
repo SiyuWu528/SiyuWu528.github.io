@@ -8,7 +8,8 @@ permalink: /index.html
 
 I passed my PhD qualifying exam with an outstanding score from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
-In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.pdf">neural symbolic AI</a> and its <a href="http://Siyuwu528.github.io/images/NeSyAI-ACS-2024_extended.pdf" target="_blank">integration with foundation models</a>.
+In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.pdf">neural symbolic AI</a> and its integration with foundation models.
+<!--a href="http://Siyuwu528.github.io/images/NeSyAI-ACS-2024_extended.pdf" target="_blank"></a-->
 
 
 In my life, I dance, sing, walk, and cook.
