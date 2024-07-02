@@ -12,6 +12,9 @@ In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.
 
 
 In my life, I dance, sing, walk, and cook.
+# Recent News
+- July 2024: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions** <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
+17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs)!
 
 # Selected papers
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
