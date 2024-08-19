@@ -54,7 +54,6 @@ Master Theses <br>
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
 # Recent watchings
-<br>
 The Pianist (Adrien Brody)<br>
 Oppenheimer (Cillian Murphy)<br>
 (Last updated: Aug 2024)
