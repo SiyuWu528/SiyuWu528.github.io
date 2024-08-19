@@ -16,7 +16,7 @@ In my life, I dance, sing, walk, and cook.
 <!---- **July 2024**: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br> <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
  **Aug 2024**: Completed internship at Bosch Center for AI advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>
- [Performance Evaluation] (https://siyuwu528.github.io/images/Signed_AO_Siyu_Intern Performance Review Form[49] (1).pdf)|
+ [Performance Evaluation] (https://siyuwu528.github.io/images/Signed_AO_Siyu_Intern Performance Review Form[49] (1).pdf) |
  [slides] (https://siyuwu528.github.io/images/Revised_AO_Wu_intern_V3.pdf)
 # Selected papers
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
