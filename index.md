@@ -13,10 +13,17 @@ In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.
 
 In my life, I dance, sing, walk, and cook.
 # Recent News
-- **July 2024**: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br> <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
-17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.
-
+<!---- **July 2024**: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br> <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
+17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
+ **Aug 2024**: Finished intern at Bosch Center for AI
+ [Performance Evaluation] (
+ [slides]
 # Selected papers
+- **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
+<u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter.
+<br>SBP-BRIMS 2024 oral<\br>
+    [repo](https://github.com/SiyuWu528/VSM-ACT-R) 
+<!---[slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)--->
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
   <u>Wu, S.</u>, Ferreira, R., Ritter, F. E., Walter., L.<br>
   AAAI Symposia 2023 Oral<br>
