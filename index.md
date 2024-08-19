@@ -20,7 +20,7 @@ In my life, I dance, sing, walk, and cook.
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
 # Selected papers
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
-<u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter.<br>
+<u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
 SBP-BRIMS 2024 Oral<br>
     [repo](https://github.com/SiyuWu528/VSM-ACT-R) 
 <!---[slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)--->
