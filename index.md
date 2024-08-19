@@ -53,9 +53,8 @@ Master Theses <br>
 # Teaching assist
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
-# Recent readings
-多余的人（韩秀）<br>
-The Worlds I See (Fei-fei Li)<br>
-What Babies Know (Elizabeth Spelke)<br>
-Friends, Lovers, and the Big Terrible Thing (Matthew Perry)<br>
-(Last updated: July 2024)
+# Recent watchings
+<br>
+The Pianist (Adrien Brody)<br>
+Oppenheimer (Cillian Murphy)<br>
+(Last updated: Aug 2024)
