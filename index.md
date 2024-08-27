@@ -6,7 +6,7 @@ permalink: /index.html
 <p><img style="float:right; padding-left:10px" src="http://Siyuwu528.github.io/images/image.jpg" width="220" height="220" /></p>
 <a href="https://siyuwu528.github.io/images/Siyu Wu_Resume_AI_V5.pdf">Curriculum Vitae</a> | <a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN">Google Scholar</a> <br>
 
-I passed my PhD qualifying exam with an outstanding score from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
+I passed my PhD <a href="http://Siyuwu528.github.io/images/Siyu Wu_Qualifying Exam Evaluation Form.pdf">qualifying exam</a> with an outstanding score from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
 In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.pdf">neural symbolic AI</a> and its <a href="https://arxiv.org/abs/2408.09176" target="_blank">integration with foundation models</a>.
 
