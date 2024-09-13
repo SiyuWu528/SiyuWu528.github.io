@@ -16,9 +16,7 @@ In my life, I dance, sing, walk, and cook.
  **Sep 2024**: co-authored <a href= "https://scholarcommons.sc.edu/csce_facpub/310/">neural symbolic AI book chapter preprints</a> with <a href="https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en">Kashik Roy</a>, Alessandro Oltramari are now accessible online.<br>
 <!---- **July 2024**: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br> <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
-<!---- **Aug 2024**: Completed internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>
-    [performance review](https://siyuwu528.github.io/images/performance.pdf) |
-    [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)--->
+<!---- **Aug 2024**: Completed internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>--->
 # Selected papers
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
 <u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
