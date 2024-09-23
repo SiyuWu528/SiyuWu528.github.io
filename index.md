@@ -20,7 +20,7 @@ In my life, I dance, sing, walk, and cook.
 # Selected papers
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
 <u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
-SBP-BRIMS 2024 Oral<br>
+🏆 Best student paper SBP-BRIMS 2024 Oral <br>
     [paper](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_7) |
     [repo](https://github.com/SiyuWu528/VSM-ACT-R) 
 <!---[slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)--->
@@ -59,7 +59,7 @@ Master Theses <br>
 # Teaching assist
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
-# Recent Readings
+# Recent readings
 Integrating Rules and Connectionism for Robust Commonsense Reasoning (Ron Sun)<br>
-雅舍谈吃 梁实秋<br>
+雅舍谈吃 (梁实秋)<br>
 (Last updated: Sep 2024)
