@@ -64,7 +64,7 @@ Master Theses <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
   
 # Teaching assist
-- **<a href="- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
+- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
 # Recent readings
