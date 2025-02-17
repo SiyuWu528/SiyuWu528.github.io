@@ -69,7 +69,7 @@ Master Theses <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
   
 # Teaching assist
-![image](https://github.com/user-attachments/assets/aa495df8-a8a8-4baa-8de4-a33c176e3e82)
+<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br>
 - **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
