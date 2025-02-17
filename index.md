@@ -74,6 +74,8 @@ Master Theses <br>
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
 # Recent readings
-Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>
-Educated (Tara Westover)<br>
-(Last updated: Jan 2025)
+Between two kingdoms (Suleika Jaouad)<br>
+故人何在（丰子恺)<br>
+Build a Large Language Model (From Scratch) (Sebastian Raschka)
+<!---Educated (Tara Westover)<br>--->
+(Last updated: Feb 2025)
