@@ -69,6 +69,7 @@ Master Theses <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
   
 # Teaching assist
+I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br>
 - **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
@@ -76,6 +77,6 @@ Master Theses <br>
 # Recent readings
 Between two kingdoms (Suleika Jaouad)<br>
 故人何在（丰子恺)<br>
-Build a Large Language Model (From Scratch) (Sebastian Raschka)
+Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>
 <!---Educated (Tara Westover)<br>--->
 (Last updated: Feb 2025)
