@@ -49,11 +49,11 @@ SBP-BRIMS 2024 Oral <br>
     [repo](https://github.com/SiyuWu528/DriveBus) |
     [slides](https://siyuwu528.github.io/images/ICCM 2023.pdf) |
     [simulation](https://pennstateoffice365-my.sharepoint.com/:v:/r/personal/sfw5621_psu_edu/Documents/DriveBus_2023/3.%20data_collection/Model%20A%20play%20the%20game%20recording.MOV?csf=1&web=1&e=Fbrijw&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI1ZWEyNDBiYS1iZmY1LTQ4M2YtODZiYi03ZjgyMzlhNGIyYmMifX0%3D)
-- **Modeling a Pandemic: Investigating Student Learning about Disease Spread in the Context of Agent-Based Modeling** <br>
+<!--- - **Modeling a Pandemic: Investigating Student Learning about Disease Spread in the Context of Agent-Based Modeling** <br>
 Wu, S. <br>
 Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)|
-[model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html)
+[model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html) --->
 
 # Work
 - 2024 Internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>
