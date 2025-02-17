@@ -13,13 +13,18 @@ In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-**Feb 2025**: **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions** (<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter) has been accepted for presentation at AAAI-MAKE 2025.
+Incoming ML&AI intern at <a href="https://www.nokia.com/bell-labs/">Nokia Bell lab</a>, advised by <a href ="https://gauss.math.yale.edu/~dk52/kushnir_cv_proto.pdf">Dan Kushnir</a>.
+<!---**Feb 2025**: **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions** (<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter) has been accepted for presentation at AAAI-MAKE 2025.--->
 <!----**Jan 2025**: My undergraduate mentee Christian Wasta's first-author paper, **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**, co-authored by Siyu Wu and Frank Ritter, has been accepted for presentation at AHFE 2025.--->
 <!---- **Sep 2024**: co-authored <a href= "https://scholarcommons.sc.edu/csce_facpub/310/">neural symbolic AI book chapter preprint</a> with <a href="https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en">Kaushik Roy</a>, Alessandro Oltramari is now accessible online.<br>--->
 <!---- **July 2024**: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br> <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
 <!---- **Aug 2024**: Completed internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>--->
 # Selected publication
+- **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
+<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
+AAAI-MAKE 2025 <br>
+Paper & repo coming soon.
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Wu, S.</u>, Alessandro Oltramari.<br>
 Handbook on Neurosymbolic AI and Knowledge Graphs <br>
