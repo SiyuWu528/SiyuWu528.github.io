@@ -28,7 +28,7 @@ Paper & repo coming soon.
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Wu, S.</u>, Alessandro Oltramari.<br>
 Handbook on Neurosymbolic AI and Knowledge Graphs <br>
-    [paper](https://scholarcommons.sc.edu/csce_facpub/310/)
+    [paper](https://ebooks.iospress.nl/volumearticle/72315)
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
 <u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
 SBP-BRIMS 2024 Oral <br>
