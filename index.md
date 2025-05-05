@@ -62,11 +62,11 @@ Master Theses <br>
 - 2021 Internship at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a> on instructional technology. <br>
     [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html)
 # Selected talks
-- From cognitive models to large language models in decision making, **2025 Soar Workshop** @ <a href ="https://integratedcognition.ai/leadership/#">Integrated Center of Cognition, UMichigan</a>.<br>
-- **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** @ Michigan institute for data & AI in society, UMichigan.<br>
+- From cognitive models to large language models in decision making, **2025 Soar Workshop**, <a href ="https://integratedcognition.ai/leadership/#">Integrated Center of Cognition, UMichigan</a>.<br>
+- **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>**, Michigan institute for data & AI in society, UMichigan.<br>
      [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
      [proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
-- <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, **2024 Soar Workshop</a>** @ Integrated Center of Cognition, UMichigan.<br>
+- <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, **2024 Soar Workshop</a>**, Integrated Center of Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
   
 # Teaching assist
