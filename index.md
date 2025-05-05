@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD candidate from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
-In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.pdf">computational human cognition</a> and its <a href="https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and" target="_blank">integration with foundation models</a>.
+In my work, I study <a href="https://link-springer-com.ezaccess.libraries.psu.edu/chapter/10.1007/978-3-031-72241-7_7">computational human cognition</a> and its <a href="https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and" target="_blank">integration with foundation models</a>.
 
 
 In my life, I dance, sing, walk, and cook.
