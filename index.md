@@ -13,7 +13,7 @@ In my work, I study <a href="http://Siyuwu528.github.io/images/CBI_intern_Wu_V2.
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-Incoming ML&AI intern at <a href="https://www.nokia.com/bell-labs/">Nokia Bell lab</a>.
+Incoming ML&AI intern at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>.
 <!---**Feb 2025**: **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions** (<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter) has been accepted for presentation at AAAI-MAKE 2025.--->
 <!----**Jan 2025**: My undergraduate mentee Christian Wasta's first-author paper, **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**, co-authored by Siyu Wu and Frank Ritter, has been accepted for presentation at AHFE 2025.--->
 <!---- **Sep 2024**: co-authored <a href= "https://scholarcommons.sc.edu/csce_facpub/310/">neural symbolic AI book chapter preprint</a> with <a href="https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en">Kaushik Roy</a>, Alessandro Oltramari is now accessible online.<br>--->
