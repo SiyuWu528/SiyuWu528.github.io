@@ -62,12 +62,11 @@ Master Theses <br>
 - 2021 Internship at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a> on instructional technology. <br>
     [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html)
 # Selected talks
-- **2024 Soar Workshop**<br> @ <a href ="https://integratedcognition.ai/leadership/#">Integrated Center of Cognition, UMichigan</a>.
-     [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
-- **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** <br> @ Michigan institute for data & AI in society, UMichigan.
+- **From cognitive models to large language models in decision making, 2025 Soar Workshop**<br> @ <a href ="https://integratedcognition.ai/leadership/#">Integrated Center of Cognition, UMichigan</a>.<br>
+- **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>** @ Michigan institute for data & AI in society, UMichigan.<br>
      [poster](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
      [proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
-- **<a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">2024 Soar Workshop</a>**<br> @ Integrated Center of Cognition, UMichigan.
+- **<a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">2024 Soar Workshop</a>** @ Integrated Center of Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
   
 # Teaching assist
@@ -75,7 +74,7 @@ Master Theses <br>
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
 - **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
-- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2024, fundamental for MS and PhD in AI & DS tracks
+- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Spring 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
 
 # Recent readings
 Between two kingdoms (Suleika Jaouad)<br>
