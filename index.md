@@ -82,4 +82,4 @@ Between two kingdoms (Suleika Jaouad)<br>
 故人何在（丰子恺)<br>
 Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>
 <!---Educated (Tara Westover)<br>--->
-(Last updated: Feb 2025)
+(Last updated: May 2025)
