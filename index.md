@@ -23,7 +23,7 @@ Incoming ML&AI intern at <a href="https://www.nokia.com/bell-labs/">Bell labs</a
 # Selected publication
 - **Cognitive LLMs: Toward Human-Like Artificial Intelligence by Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
-Special Issue on Trustworthy Neuralsymbolic AI in the Journal of Neuralsymbolic AI <br>
+Special Issue on Trustworthy Neurosymbolic AI in the Journal of Neurosymbolic AI <br>
     [paper](https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0)
 - **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
