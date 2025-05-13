@@ -27,8 +27,9 @@ Special Issue on Trustworthy Neural-Symbolic AI in the Journal of Neural-Symboli
     [paper](https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0)
 - **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
-AAAI-MAKE 2025 <br>
+AAAI-MAKE 2025 Oral<br>
     [paper](https://spring-symposia-proceedings.aaai.org/preprints/MAKE1142.pdf)
+    [slides](https://siyuwu528.github.io/images/AAAI-MAKE.pdf)
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Wu, S.</u>, Alessandro Oltramari.<br>
 Handbook on Neurosymbolic AI and Knowledge Graphs <br>
