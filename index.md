@@ -21,10 +21,14 @@ Incoming ML&AI intern at <a href="https://www.nokia.com/bell-labs/">Bell labs</a
 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
 <!---- **Aug 2024**: Completed internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>--->
 # Selected publication
+- **Cognitive LLMs: Toward Human-Like Artificial Intelligence by Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**.<br>
+<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
+Special Issue on Trustworthy Neural-Symbolic AI in the Journal of Neural-Symbolic Artificial Intelligence <br>
+    [paper](https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0)
 - **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
 AAAI-MAKE 2025 <br>
-Paper & repo coming soon.
+    [paper](https://spring-symposia-proceedings.aaai.org/preprints/MAKE1142.pdf)
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Wu, S.</u>, Alessandro Oltramari.<br>
 Handbook on Neurosymbolic AI and Knowledge Graphs <br>
