@@ -13,7 +13,7 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br>
+Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>
 ML&AI interning at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>. Advised by <a href="https://www.nokia.com/people/dan-kushnir/">Dan Kushnir</a>.
 <!---**Feb 2025**: **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions** (<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter) has been accepted for presentation at AAAI-MAKE 2025.--->
 <!----**Jan 2025**: My undergraduate mentee Christian Wasta's first-author paper, **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**, co-authored by Siyu Wu and Frank Ritter, has been accepted for presentation at AHFE 2025.--->
