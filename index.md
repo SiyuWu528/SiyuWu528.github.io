@@ -33,7 +33,7 @@ Journal of Neurosymbolic AI <br>
 - **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
 AAAI-MAKE 2025 Oral<br>
-    [paper](https://spring-symposia-proceedings.aaai.org/preprints/MAKE1142.pdf) |
+    [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35610) |
     [slides](https://siyuwu528.github.io/images/AAAI-MAKE.pdf)
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Wu, S.</u>, Alessandro Oltramari.<br>
