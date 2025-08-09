@@ -13,9 +13,9 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-Patent w/ Dan Kushnir @Bell Labs submitted for legal review.
+Aug: Patent w/ Dan Kushnir @Bell Labs submitted for legal review.
 <br> <br>
-CogDriver won best paper @HFES 2025.
+July: CogDriver won best paper @HFES 2025.
 <br> <br>
 July: Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>
 <!----Summer: ML&AI interning at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>. Advised by <a href="https://www.nokia.com/people/dan-kushnir/">Dan Kushnir</a>.--->
@@ -80,11 +80,11 @@ Master Theses <br>
 [model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html) --->
 
 # Work
-- 2025 Internship at <a href= "https://www.nokia.com/bell-labs/"> Bell labs, Nokia</a> advised by <a href="https://www.nokia.com/people/dan-kushnir/"> Dan Kushnir</a>. <br>
-- 2024 Internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Jonathan Francis </a>. <br>
+- 2025 ML/AI intern at <a href= "https://www.nokia.com/bell-labs/"> Bell labs, Nokia</a> advised by <a href="https://www.nokia.com/people/dan-kushnir/"> Dan Kushnir</a>. <br>
+- 2024 Neurosymbolic AI intern at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Jonathan Francis </a>. <br>
     [performance review](https://siyuwu528.github.io/images/performance.pdf) |
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
-- 2021 Internship at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a> on instructional technology. <br>
+- 2021 instrutional tech intern at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a>. <br>
     [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html)
 # Selected talks
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
