@@ -103,8 +103,9 @@ I am now welcoming one undergraduate (ideally) or graduate student to work with 
 
 
 # Recent readings
-Between two kingdoms (Suleika Jaouad)<br>
-故人何在（丰子恺)<br>
-Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>
+<!---Between two kingdoms (Suleika Jaouad)<br>--->
+<!---故人何在（丰子恺)<br>--->
+<!---Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>--->
 <!---Educated (Tara Westover)<br>--->
+From crook to cook (Snoop Dogg)
 (Last updated: Aug 2025)
