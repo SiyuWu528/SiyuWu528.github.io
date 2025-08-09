@@ -107,5 +107,5 @@ I am now welcoming one undergraduate (ideally) or graduate student to work with 
 <!---故人何在（丰子恺)<br>--->
 <!---Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>--->
 <!---Educated (Tara Westover)<br>--->
-From crook to cook (Snoop Dogg)
+From crook to cook (Snoop Dogg)<br>
 (Last updated: Aug 2025)
