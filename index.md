@@ -13,7 +13,7 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-Aug: Patent w/ Dan Kushnir @Bell Labs submitted for legal review.
+Aug: Patent w/ Dan Kushnir @Bell Labs submitted for initial legal review.
 <br> <br>
 July: CogDriver won best paper @HFES 2025.
 <br> <br>
@@ -33,7 +33,7 @@ Pending, Bosch LLC., 2025. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
 <u>Wu, S.</u>, Dan Kushnir<br>
-Submitted for legal review, Bell labs, Nokia., 2025.
+Submitted for initial legal review, Bell labs, Nokia., 2025.
 
 # Selected publication
 - **VSM-ACTR 2: A Human-Like Decision Making Model with Metacognition for Manufacturing Solutions**.<br>
