@@ -8,19 +8,33 @@ permalink: /index.html
 
 I am a PhD candidate from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
-In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0" target="_blank">integration with foundation models</a>.
+In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0" target="_blank">integration with AI agents and systems</a>.
 
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
+Patent w/ Dan Kushnir @Bell Labs submitted for legal review.
+<br> <br>
+CogDriver won best paper @HFES 2025.
+<br> <br>
 July: Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>
-Summer: ML&AI interning at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>. Advised by <a href="https://www.nokia.com/people/dan-kushnir/">Dan Kushnir</a>.
+<!----Summer: ML&AI interning at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>. Advised by <a href="https://www.nokia.com/people/dan-kushnir/">Dan Kushnir</a>.--->
 <!---**Feb 2025**: **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions** (<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter) has been accepted for presentation at AAAI-MAKE 2025.--->
 <!----**Jan 2025**: My undergraduate mentee Christian Wasta's first-author paper, **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**, co-authored by Siyu Wu and Frank Ritter, has been accepted for presentation at AHFE 2025.--->
 <!---- **Sep 2024**: co-authored <a href= "https://scholarcommons.sc.edu/csce_facpub/310/">neural symbolic AI book chapter preprint</a> with <a href="https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en">Kaushik Roy</a>, Alessandro Oltramari is now accessible online.<br>--->
 <!---- **July 2024**: paper **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br> <u>Wu, S.</u>, <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html">Alessandro Oltramari</a>, Frank Ritter, get accepted to 
 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
 <!---- **Aug 2024**: Completed internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>--->
+
+# Patent
+- **System and Method for a Cognitive Architecture Utilized in Manufacturing**.<br>
+<u>Wu, S.</u>, Alessandro Oltramari<br>
+Pending, Bosch LLC., 2025. <br>
+
+- **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
+<u>Wu, S.</u>, Dan Kushnir<br>
+Submitted for legal review, Bell labs, Nokia., 2025. <br>
+
 # Selected publication
 - **VSM-ACTR 2: A Human-Like Decision Making Model with Metacognition for Manufacturing Solutions**.<br>
 <u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
@@ -66,6 +80,7 @@ Master Theses <br>
 [model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html) --->
 
 # Work
+-2025 Internship at <a href= "https://www.nokia.com/bell-labs/"> Bell labs, Nokia</a> advised by <a href="https://www.nokia.com/people/dan-kushnir/"> Dan Kushnir</a>. <br>
 - 2024 Internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>
     [performance review](https://siyuwu528.github.io/images/performance.pdf) |
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
