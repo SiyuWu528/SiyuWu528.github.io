@@ -33,7 +33,7 @@ Pending, Bosch LLC., 2025. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
 <u>Wu, S.</u>, Dan Kushnir<br>
-Submitted for legal review, Bell labs, Nokia., 2025. <br>
+Submitted for legal review, Bell labs, Nokia., 2025.
 
 # Selected publication
 - **VSM-ACTR 2: A Human-Like Decision Making Model with Metacognition for Manufacturing Solutions**.<br>
@@ -85,7 +85,7 @@ Master Theses <br>
     [performance review](https://siyuwu528.github.io/images/performance.pdf) |
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
 - 2021 instrutional tech intern at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a>. <br>
-    [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html)
+    [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html) <br>
 # Selected talks
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>**, Michigan institute for data & AI in society, UMichigan.<br>
