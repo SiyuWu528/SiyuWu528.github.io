@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /index.html
 ---
-<p><img style="float:right; padding-left:10px" src="http://Siyuwu528.github.io/images/image.jpg" width="220" height="220" /></p>
+<p><img style="float:right; padding-left:10px" src="http://Siyuwu528.github.io/images/IMG_1338.HEIC" width="220" height="220" /></p>
 <a href="https://siyuwu528.github.io/images/Siyu Wu_Resume_AI_V7.pdf">Curriculum Vitae</a> | <a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN">Google Scholar</a> <br>
 
 I am a PhD candidate from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
