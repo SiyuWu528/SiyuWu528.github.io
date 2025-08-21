@@ -37,7 +37,7 @@ Pending, Bosch LLC., 2025. <br>
 Submitted for initial legal review, Bell labs, Nokia., 2025.
 
 # Selected publication
-- **CogDriver: The Longest-Running Autonomous Driving Cognitive**.<br>
+- **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**.<br>
 Christian Wasta, <u>Siyu Wu</u>, Frank E. Ritter.<br>
 AHFE, Cognitive Computing and Internet of Things <br>
 🏆 Best student paper<br>
