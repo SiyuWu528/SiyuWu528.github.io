@@ -37,10 +37,15 @@ Pending, Bosch LLC., 2025. <br>
 Submitted for initial legal review, Bell labs, Nokia., 2025.
 
 # Selected publication
+- **CogDriver: The Longest-Running Autonomous Driving Cognitive**.<br>
+Christian Wasta, <u>Siyu Wu</u>, Frank E. Ritter.<br>
+AHFE, Cognitive Computing and Internet of Things <br>
+🏆 Best student paper<br>
+    [paper](https://books.google.com/books?hl=en&lr=&id=8gtyEQAAQBAJ&oi=fnd&pg=PA169&dq=info:A1UBGdvLK_8J:scholar.google.com&ots=emk2kMjd2B&sig=kxRYq0Fda6zIhrkXQmQUcolkkms#v=onepage&q&f=false)
 - **VSM-ACTR 2: A Human-Like Decision Making Model with Metacognition for Manufacturing Solutions**.<br>
 <u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
 Journal of Computational and Mathematical Organization Theory <br>
-In publication
+    [paper](https://link-springer-com.ezaccess.libraries.psu.edu/article/10.1007/s10588-025-09405-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250821&utm_content=10.1007%2Fs10588-025-09405-5)
 - **Cognitive LLMs: Toward Human-Like Artificial Intelligence by Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
 Journal of Neurosymbolic AI <br>
