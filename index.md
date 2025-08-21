@@ -43,7 +43,7 @@ AHFE, Cognitive Computing and Internet of Things <br>
 🏆 Best student paper<br>
     [paper](https://books.google.com/books?hl=en&lr=&id=8gtyEQAAQBAJ&oi=fnd&pg=PA169&dq=info:A1UBGdvLK_8J:scholar.google.com&ots=emk2kMjd2B&sig=kxRYq0Fda6zIhrkXQmQUcolkkms#v=onepage&q&f=false)
 - **VSM-ACTR 2: A Human-Like Decision Making Model with Metacognition for Manufacturing Solutions**.<br>
-<u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
+<u>Siyu Wu</u>, Alessandro Oltramari, Frank E. Ritter.<br>
 Journal of Computational and Mathematical Organization Theory <br>
     [paper](https://link-springer-com.ezaccess.libraries.psu.edu/article/10.1007/s10588-025-09405-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250821&utm_content=10.1007%2Fs10588-025-09405-5)
 - **Cognitive LLMs: Toward Human-Like Artificial Intelligence by Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**.<br>
@@ -56,31 +56,31 @@ AAAI-MAKE 2025 Oral<br>
     [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35610) |
     [slides](https://siyuwu528.github.io/images/AAAI-MAKE.pdf)
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
-Kaushik Roy, <u>Wu, S.</u>, Alessandro Oltramari.<br>
+Kaushik Roy, <u>Siyu Wu</u>, Alessandro Oltramari.<br>
 Handbook on Neurosymbolic AI and Knowledge Graphs <br>
     [paper](https://ebooks.iospress.nl/volumearticle/72315)
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
-<u>Wu, S.</u>, Alessandro Oltramari, Frank Ritter.<br>
+<u>Siyu Wu</u>, Alessandro Oltramari, Frank Ritter.<br>
 SBP-BRIMS 2024 Oral <br>
 🏆 Best student paper<br>
     [paper](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_7) |
     [repo](https://github.com/SiyuWu528/VSM-ACT-R) 
 <!---[slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)--->
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
-  <u>Wu, S.</u>, Ferreira, R., Ritter, F. E., Walter., L.<br>
+  <u>Siyu Wu</u>Rodrigo F. Souza, Frank Ritter, Walter Lima Jr.<br>
   AAAI Symposia 2023 Oral<br>
     [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) |
     [repo](https://github.com/SiyuWu528/GPT-DriveBus) |
     [slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)
 - **Long Road Ahead: Lessons Learned from the (soon to be) Longest Running Cognitive Model** <br>
-  <u>Wu, S.</u> Bagherzadeh, A., Ritter, F. E., Tehranchi, F.<br>
+  <u>Siyu Wu</u> Amir Bagherzadeh, Frank Ritter, Farnaz Tehranchi.<br>
   ICCM 2023 Oral<br>
     [paper](https://www.frankritter.com/papers/wuBRT23.pdf) |
     [repo](https://github.com/SiyuWu528/DriveBus) |
     [slides](https://siyuwu528.github.io/images/ICCM 2023.pdf) |
     [simulation](https://pennstateoffice365-my.sharepoint.com/:v:/r/personal/sfw5621_psu_edu/Documents/DriveBus_2023/3.%20data_collection/Model%20A%20play%20the%20game%20recording.MOV?csf=1&web=1&e=Fbrijw&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI1ZWEyNDBiYS1iZmY1LTQ4M2YtODZiYi03ZjgyMzlhNGIyYmMifX0%3D)
 <!--- - **Modeling a Pandemic: Investigating Student Learning about Disease Spread in the Context of Agent-Based Modeling** <br>
-Wu, S. <br>
+Siyu Wu <br>
 Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)|
 [model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html) --->
