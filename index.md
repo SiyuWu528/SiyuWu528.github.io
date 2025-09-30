@@ -14,7 +14,9 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-Aug: Patent w/ Dan Kushnir @Bell Labs submitted for initial legal review.
+Oct: I present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>
+<br> <br>
+Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.
 <br> <br>
 July: CogDriver won best paper @HFES 2025.
 <br> <br>
