@@ -18,7 +18,7 @@ Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-sy
 <br> <br>
 Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.
 <br> <br>
-July: CogDriver won best paper @HFES 2025.
+July: CogDriver won best paper @AHFE 2025.
 <br> <br>
 July: Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>
 <!----Summer: ML&AI interning at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>. Advised by <a href="https://www.nokia.com/people/dan-kushnir/">Dan Kushnir</a>.--->
