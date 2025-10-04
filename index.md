@@ -14,10 +14,11 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
+Oct: Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.
+<br> <br>
 Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>
 <br> <br>
-Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.
-<br> <br>
+<!----Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.--->
 July: CogDriver won best paper @AHFE 2025.
 <br> <br>
 July: Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>
