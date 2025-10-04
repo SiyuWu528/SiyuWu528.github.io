@@ -19,9 +19,8 @@ Oct: Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 revie
 Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>
 <br> <br>
 <!----Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.--->
-July: CogDriver won best paper @AHFE 2025.
-<br> <br>
-July: Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>
+<!----July: CogDriver won best paper @AHFE 2025.--->
+<!----July: Grant proposal on human-agent interaction with a neurosymbolic decision-making multi-agent system is funded by <a href="https://ssri.psu.edu/funding">Penn State SSRI Level 1</a>. <br> <br>--->
 <!----Summer: ML&AI interning at <a href="https://www.nokia.com/bell-labs/">Bell labs</a>. Advised by <a href="https://www.nokia.com/people/dan-kushnir/">Dan Kushnir</a>.--->
 <!---**Feb 2025**: **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions** (<u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter) has been accepted for presentation at AAAI-MAKE 2025.--->
 <!----**Jan 2025**: My undergraduate mentee Christian Wasta's first-author paper, **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**, co-authored by Siyu Wu and Frank Ritter, has been accepted for presentation at AHFE 2025.--->
@@ -37,7 +36,7 @@ Pending, Bosch LLC., 2025. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
 <u>Wu, S.</u>, Dan Kushnir<br>
-Submitted for initial legal review, Bell labs, Nokia., 2025.
+Submitted for patenting review, Bell labs, Nokia., 2025.
 
 # Selected publication
 - **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**.<br>
@@ -103,7 +102,8 @@ Master Theses <br>
      [In proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
 - LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">**2024 Soar Workshop**</a>, Center for Integrated Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
-  
+# Grants
+-  Cognitive Multi‑Agent Decision Support: Investigating users’ understanding of decision support in the context of neurosymbolic integration using cognitive architectures, Co-PI, Social Science Research Institute (SSRI) seed grant, PSU.
 # Teaching assist
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
