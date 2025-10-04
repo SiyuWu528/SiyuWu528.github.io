@@ -94,6 +94,7 @@ Master Theses <br>
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
 - 2021 instrutional tech intern at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a>. <br>
     [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html) <br>
+    
 # Selected talks
 - HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research.</a><br>
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
@@ -102,15 +103,16 @@ Master Theses <br>
      [In proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
 - LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">**2024 Soar Workshop**</a>, Center for Integrated Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
+     
 # Grants
 -  Cognitive Multi‑Agent Decision Support: Investigating users’ understanding of decision support in the context of neurosymbolic integration using cognitive architectures, Co-PI, Social Science Research Institute (SSRI) seed grant, PSU.
+  
 # Teaching assist
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
 - **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
-
 
 # Recent readings
 <!---Between two kingdoms (Suleika Jaouad)<br>--->
