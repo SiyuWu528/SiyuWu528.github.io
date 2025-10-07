@@ -31,11 +31,11 @@ Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-sy
 
 # Patents
 - **System and Method for a Cognitive Architecture Utilized in Manufacturing**.<br>
-<u>Wu, S.</u>, Alessandro Oltramari<br>
+<u>Siyu Wu</u>, and Alessandro Oltramari<br>
 Pending, Bosch LLC., 2025. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
-Dan Kushnir, <u>Wu, S.</u> <br>
+Dan Kushnir, and <u>Siyu Wu</u> <br>
 Submitted for patenting review, Bell labs, Nokia., 2025.
 
 # Selected publication
