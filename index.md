@@ -35,7 +35,7 @@ Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-sy
 Pending, Bosch LLC., 2025. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
-<u>Wu, S.</u>, Dan Kushnir<br>
+Dan Kushnir, <u>Wu, S.</u> <br>
 Submitted for patenting review, Bell labs, Nokia., 2025.
 
 # Selected publication
