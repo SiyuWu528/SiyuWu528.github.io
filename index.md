@@ -14,9 +14,11 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
+Jan 2026: Become NeSy 2026 reviewer. 
+<br> <br>
 Oct: Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.
 <br> <br>
-Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>
+<!----Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>--->
 <br> <br>
 <!----Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.--->
 <!----July: CogDriver won best paper @AHFE 2025.--->
