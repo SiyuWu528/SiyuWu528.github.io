@@ -78,7 +78,7 @@ SBP-BRIMS 2024 Oral <br>
     [repo](https://github.com/SiyuWu528/GPT-DriveBus) |
     [slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)
 - **Long Road Ahead: Lessons Learned from the (soon to be) Longest Running Cognitive Model** <br>
-  <u>Siyu Wu</u> Amir Bagherzadeh, Frank Ritter, Farnaz Tehranchi.<br>
+  <u>Siyu Wu</u>, Amir Bagherzadeh, Frank Ritter, Farnaz Tehranchi.<br>
   ICCM 2023 Oral<br>
     [paper](https://www.frankritter.com/papers/wuBRT23.pdf) |
     [repo](https://github.com/SiyuWu528/DriveBus) |
