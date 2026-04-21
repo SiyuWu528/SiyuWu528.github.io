@@ -72,7 +72,7 @@ SBP-BRIMS 2024 Oral <br>
     [repo](https://github.com/SiyuWu528/VSM-ACT-R) 
 <!---[slides](https://siyuwu528.github.io/images/AAAI23_modeling PPT_V5b.pdf)--->
 - **Comparing LLMs for Prompt-Enhanced ACT-R and Soar Model Development: A Case Study in Cognitive Simulation** <br>
-  <u>Siyu Wu</u>Rodrigo F. Souza, Frank Ritter, Walter Lima Jr.<br>
+  <u>Siyu Wu</u>, Rodrigo F. Souza, Frank Ritter, Walter Lima Jr.<br>
   AAAI Symposia 2023 Oral<br>
     [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/27710) |
     [repo](https://github.com/SiyuWu528/GPT-DriveBus) |
