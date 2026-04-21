@@ -15,7 +15,9 @@ In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-towa
 In my life, I dance, sing, walk, and cook.
 # Recent news
 April 2026: Invited as a reviewer for IEEE Transactions of Mechatronics, and Frontiers in Computer Science.
+
 March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC) </a>, by the College of IST.
+
 Jan 2026: Invited as a reviewer for NeSy 2026.
 <!----Oct : Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.--->
 <!----Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>--->
@@ -61,7 +63,7 @@ AAAI-MAKE 2025 Oral<br>
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Siyu Wu</u>, Alessandro Oltramari.<br>
 Handbook on Neurosymbolic AI and Knowledge Graphs <br>
-    [paper](https://ebooks.iospress.nl/volumearticle/72315)
+    [book chapter](https://ebooks.iospress.nl/volumearticle/72315)
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Frank Ritter.<br>
 SBP-BRIMS 2024 Oral <br>
