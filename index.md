@@ -9,12 +9,14 @@ permalink: /index.html
 
 I am a PhD candidate from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
-In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0" target="_blank">integration with AI agents and systems</a>.
+In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
 
 
 In my life, I dance, sing, walk, and cook.
 # Recent news
-Jan 2026: Become NeSy 2026 reviewer.
+April 2026: Invited as a reviewer for IEEE Transactions of Mechatronics, and Frontiers in Computer Science.
+March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC) </a>, by the College of IST.
+Jan 2026: Invited as a reviewer for NeSy 2026.
 <!----Oct : Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.--->
 <!----Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>--->
 <!----Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.--->
@@ -50,7 +52,7 @@ Journal of Computational and Mathematical Organization Theory <br>
 - **Cognitive LLMs: Toward Human-Like Artificial Intelligence by Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
 Journal of Neurosymbolic AI <br>
-    [paper](https://neurosymbolic-ai-journal.com/paper/cognitive-llms-toward-human-artificial-intelligence-integrating-cognitive-architectures-and-0)
+    [paper](https://journals.sagepub.com/doi/10.1177/29498732251377341)
 - **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
 AAAI-MAKE 2025 Oral<br>
