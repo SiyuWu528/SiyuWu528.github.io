@@ -102,7 +102,7 @@ Master Theses <br>
 - HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research</a>, Aug 2025.<br>
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>**, Michigan institute for data & AI in society, UMichigan.<br>
-     [Talk sketch](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf)|<br>
+     [Talk sketch](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf)|
      [In proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
 - LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">**2024 Soar Workshop**</a>, Center for Integrated Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
@@ -114,7 +114,7 @@ Master Theses <br>
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, TA, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
-- **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, TA, Spring 2025, fundamental for Infomatics PhD
+- **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, TA, Spring 2025, fundamental for Infomatics PhD <br>
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
 <!---# Recent readings--->
 <!---Between two kingdoms (Suleika Jaouad)<br>--->
