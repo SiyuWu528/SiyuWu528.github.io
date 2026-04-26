@@ -99,7 +99,7 @@ Master Theses <br>
     [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html) <br>
     
 # Selected talks
-- HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research, Aug 2025.</a><br>
+- HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research</a>, Aug 2025.<br>
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>**, Michigan institute for data & AI in society, UMichigan.<br>
      [Talk sketch](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
