@@ -90,11 +90,11 @@ Master Theses <br>
 [paper](https://www.proquest.com/docview/2715316973?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)|
 [model](https://ccl.northwestern.edu/theorybuilding/Siyu-Intervention/Model5Disease.html) --->
 
-# Selected awards $ fellowships
+# Selected awards & fellowships
 - <a href="https://midas.umich.edu/events/future-leaders-summit-2024/">Future Leader in Responsible Data Science & AI</a>, UMichigan Institute for Data Science, 2024. <br>
 - <a href="https://sbp-brims.org/2025/scholarships/">Merit based scholarship</a>, SBP‑BRiMS, Carnegie Mellon University, 2023 -2025. <br>
-- <a href="https://ed.psu.edu/faculty-staff/graduate-recruitment">Robert Graham Endowed Fellowship</a> for outstanding graduate students, PSU. <br>
-- <a href="https://www.usu.edu/involvement/funding/grad-opportunities">Graduate Enhancement Award for academic excellence</a>, Utah State University.
+- <a href="https://ed.psu.edu/faculty-staff/graduate-recruitment">Robert Graham Endowed Fellowship</a> for outstanding graduate students, PSU, 2023.<br>
+- <a href="https://www.usu.edu/involvement/funding/grad-opportunities">Graduate Enhancement Award for academic excellence</a>, Utah State University, 2022.
 
 # Work
 - 2025 ML/AI intern at <a href= "https://www.nokia.com/bell-labs/"> Bell labs, Nokia</a> advised by <a href="https://www.nokia.com/people/dan-kushnir/"> Dan Kushnir</a>. <br>
