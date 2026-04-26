@@ -108,7 +108,7 @@ Master Theses <br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
      
 # Grants
--  Cognitive Multi‑Agent Decision Support: Investigating users’ understanding of decision support in the context of neurosymbolic integration using cognitive architectures, Co-PI, <a href =" https://ssri.psu.edu/funding"> Social Science Research Institute (SSRI) seed grant, PSU</a>.
+-  Cognitive Multi‑Agent Decision Support: Investigating users’ understanding of decision support in the context of neurosymbolic integration using cognitive architectures, Co-PI, <a href ="https://ssri.psu.edu/funding">Social Science Research Institute (SSRI) seed grant, PSU</a>.
   
 # Teaching
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
