@@ -116,12 +116,11 @@ I am now welcoming one undergraduate (ideally) or graduate student to work with 
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, TA, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
 - **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, TA, Spring 2025, fundamental for Infomatics PhD
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
-
 <!---# Recent readings--->
 <!---Between two kingdoms (Suleika Jaouad)<br>--->
 <!---故人何在（丰子恺)<br>--->
 <!---Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>--->
---->Educated (Tara Westover)<br>--->
---->The happiness effect (Donna Freitas) <br>--->
+<!---Educated (Tara Westover)<br>--->
+<!---The happiness effect (Donna Freitas) <br>--->
 <!---From crook to cook (Snoop Dogg)<br>--->
-(Last updated: Oct 2025)
+(Last updated: Apr 2026)
