@@ -11,7 +11,7 @@ I am a PhD candidate from The Pennsylvania State University, College of Informat
 
 I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
 
-
+I obtained my M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213"></a> agent-based computational modeling with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>.
 <!----In my life, I dance, sing, walk, and cook.--->
 # Recent news
 April 2026: Invited as a reviewer for IEEE Transactions of Mechatronics, and Frontiers in Computer Science.
