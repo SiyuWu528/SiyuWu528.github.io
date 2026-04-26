@@ -12,11 +12,11 @@ I am a PhD candidate from The Pennsylvania State University, College of Informat
 In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
 
 
-In my life, I dance, sing, walk, and cook.
+<!----In my life, I dance, sing, walk, and cook.--->
 # Recent news
 April 2026: Invited as a reviewer for IEEE Transactions of Mechatronics, and Frontiers in Computer Science.
 
-March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC) </a>, by the College of IST.
+March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC)</a>, by the College of IST.
 
 Jan 2026: Invited as a reviewer for NeSy 2026.
 <!----Oct : Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.--->
@@ -41,19 +41,19 @@ Pending, Bosch LLC., 2025. <br>
 Dan Kushnir, and <u>Siyu Wu</u> <br>
 Submitted for patenting review, Bell labs, Nokia., 2025.
 
-# Selected publication
+# Selected publications
 - **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**.<br>
 Christian Wasta, <u>Siyu Wu</u>, Frank E. Ritter.<br>
-AHFE, Cognitive Computing and Internet of Things <br>
+AHFE 2025, Cognitive Computing and Internet of Things <br>
 🏆 Best student paper<br>
     [paper](https://books.google.com/books?hl=en&lr=&id=8gtyEQAAQBAJ&oi=fnd&pg=PA169&dq=info:A1UBGdvLK_8J:scholar.google.com&ots=emk2kMjd2B&sig=kxRYq0Fda6zIhrkXQmQUcolkkms#v=onepage&q&f=false)
 - **VSM-ACTR 2: A Human-Like Decision Making Model with Metacognition for Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Frank E. Ritter.<br>
-Journal of Computational and Mathematical Organization Theory <br>
+Journal of Computational and Mathematical Organization Theory 2025<br>
     [paper](https://link-springer-com.ezaccess.libraries.psu.edu/article/10.1007/s10588-025-09405-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250821&utm_content=10.1007%2Fs10588-025-09405-5)
 - **Cognitive LLMs: Toward Human-Like Artificial Intelligence by Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
-Journal of Neurosymbolic AI <br>
+Journal of Neurosymbolic AI 2025<br>
     [paper](https://journals.sagepub.com/doi/10.1177/29498732251377341)
 - **LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Jonathan Francis, C. Lee Giles, Frank E. Ritter. <br>
@@ -62,7 +62,7 @@ AAAI-MAKE 2025 Oral<br>
     [slides](https://siyuwu528.github.io/images/AAAI-MAKE.pdf)
 - **Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning**.<br>
 Kaushik Roy, <u>Siyu Wu</u>, Alessandro Oltramari.<br>
-Handbook on Neurosymbolic AI and Knowledge Graphs <br>
+Handbook on Neurosymbolic AI and Knowledge Graphs 2025<br>
     [book chapter](https://ebooks.iospress.nl/volumearticle/72315)
 - **VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions**.<br>
 <u>Siyu Wu</u>, Alessandro Oltramari, Frank Ritter.<br>
@@ -113,15 +113,15 @@ Master Theses <br>
 # Teaching assist
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
-- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
-- **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, Spring 2025, fundamental for Infomatics PhD
+- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, TA, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
+- **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, TA, Spring 2025, fundamental for Infomatics PhD
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
 
-# Recent readings
+<!---# Recent readings--->
 <!---Between two kingdoms (Suleika Jaouad)<br>--->
 <!---故人何在（丰子恺)<br>--->
 <!---Build a Large Language Model (From Scratch) (Sebastian Raschka)<br>--->
-<!---Educated (Tara Westover)<br>--->
-The happiness effect (Donna Freitas) <br>
+--->Educated (Tara Westover)<br>--->
+--->The happiness effect (Donna Freitas) <br>--->
 <!---From crook to cook (Snoop Dogg)<br>--->
 (Last updated: Oct 2025)
