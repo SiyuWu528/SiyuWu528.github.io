@@ -103,7 +103,7 @@ Master Theses <br>
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>**, Michigan institute for data & AI in society, UMichigan.<br>
      [Talk sketch](https://siyuwu528.github.io/images/V4_AI-WEEK-2024-LLM-ACT-R-1.pdf) |
-     [In proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)
+     <!---[In proceedings](https://siyuwu528.github.io/images/Future Leaders Summit Program Book 2024 (2).pdf)--->
 - LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">**2024 Soar Workshop**</a>, Center for Integrated Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
      
