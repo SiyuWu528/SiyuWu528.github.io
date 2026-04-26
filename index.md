@@ -9,7 +9,7 @@ permalink: /index.html
 
 I am a PhD candidate from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
-In my work, I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
+I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
 
 
 <!----In my life, I dance, sing, walk, and cook.--->
