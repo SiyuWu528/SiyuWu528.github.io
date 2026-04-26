@@ -1,22 +1,22 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /index.html
 ---
 <p><img style="float:right; padding-left:10px" src="http://Siyuwu528.github.io/images/Image_2.jpg" width="210" height="220" /></p>
 <!----<a href="https://siyuwu528.github.io/images/Siyu Wu_Resume_AI_V7.pdf">Curriculum Vitae</a> |---> 
 <a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN">Google Scholar</a> <br>
 
-I am a PhD candidate from The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
+I am a PhD candidate at The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
 I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
 
 I obtained my M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">computer based modeling & connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>.
 <!----In my life, I dance, sing, walk, and cook.--->
 # Recent news
-April 2026: Invited as a reviewer for IEEE Transactions of Mechatronics, and Frontiers in Computer Science.
+April 2026: Invited as a reviewer for IEEE Transactions on Mechatronics, and Frontiers in Computer Science.
 
-March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC)</a>, by the College of IST.
+March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC)</a> by the College of IST.
 
 Jan 2026: Invited as a reviewer for NeSy 2026.
 <!----Oct : Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.--->
@@ -35,11 +35,11 @@ Jan 2026: Invited as a reviewer for NeSy 2026.
 # Patents
 - **System and Method for a Cognitive Architecture Utilized in Manufacturing**.<br>
 <u>Siyu Wu</u>, and Alessandro Oltramari<br>
-Pending, Bosch LLC., 2025. <br>
+Pending, Bosch LLC, 2025. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
 Dan Kushnir, and <u>Siyu Wu</u> <br>
-Submitted for patenting review, Bell labs, Nokia., 2025.
+Submitted for patenting review, Bell labs, Nokia, 2025.
 
 # Selected publications
 - **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**.<br>
@@ -101,8 +101,8 @@ Master Theses <br>
 - 2024 Neurosymbolic AI intern at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Jonathan Francis </a>. <br>
     [performance review](https://siyuwu528.github.io/images/performance.pdf) |
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
-- 2021 instrutional tech intern at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a>. <br>
-    [porfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html) <br>
+- 2021 Instrutional Tech intern at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a>. <br>
+    [portfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html) <br>
     
 # Selected talks
 - HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research</a>, Aug 2025.<br>
@@ -119,8 +119,8 @@ Master Theses <br>
 # Teaching
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
-- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data mining</a>**, TA, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
-- **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, TA, Spring 2025, fundamental for Infomatics PhD <br>
+- **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data Mining</a>**, TA, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
+- **<a href="https://faculty.ist.psu.edu/vhonavar/Courses/ist510/homepage.html">IST510 Computational Informatics</a>**, TA, Spring 2025, fundamental for Informatics PhD <br>
 <!----- **<a href="https://teaching.ist.psu.edu/courses/undergrad/sra/480">SRA480 Crisis Informatics</a>**, Spring 2025, for Security and Risk Analysis, B.S degree--->
 <!---# Recent readings--->
 <!---Between two kingdoms (Suleika Jaouad)<br>--->
