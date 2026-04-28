@@ -7,9 +7,9 @@ permalink: /index.html
 <!----<a href="https://siyuwu528.github.io/images/Siyu Wu_Resume_AI_V7.pdf">Curriculum Vitae</a> |---> 
 <a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN">Google Scholar</a> <br>
 
-I am a PhD candidate at The Pennsylvania State University, College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
+I am a Ph.D. candidate at Penn State (University Park), College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
-I am interested in understanding how the mind works. During my Ph.D., I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">computational human cognition</a> and its <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
+I am a neurosymbolic AI researcher with an interest in understanding how the mind works. During my Ph.D., I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s">symbolic cognitive architectures</a> and their <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">integration with AI agents and systems</a>.
 
 Prior to my Ph.D., I earned my M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">computer based modeling & connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>.
 <!----In my life, I dance, sing, walk, and cook.--->
