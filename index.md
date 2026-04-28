@@ -35,7 +35,7 @@ Jan 2026: Invited as a reviewer for NeSy 2026.
 # Patents
 - **System and Method for a Cognitive Architecture Utilized in Manufacturing**.<br>
 <u>Siyu Wu</u>, and Alessandro Oltramari<br>
-Pending, Bosch LLC, 2025. <br>
+Pending, Bosch LLC, 2024. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
 Dan Kushnir, and <u>Siyu Wu</u> <br>
