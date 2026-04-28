@@ -7,7 +7,7 @@ permalink: /index.html
 <!----<a href="https://siyuwu528.github.io/images/Siyu Wu_Resume_AI_V7.pdf">Curriculum Vitae</a> |---> 
 <a href="https://scholar.google.com/citations?user=wFLFQeoAAAAJ&hl=zh-CN">Google Scholar</a> <br>
 
-I am a Ph.D. candidate and a neurosymbolic AI researcher at Penn State (University Park), College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
+I am a neurosymbolic AI researcher and a Ph.D. candidate at Penn State (University Park), College of Information Sciences and Technology, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>.
 
 I am interested in understanding how the mind works. I study <a href="https://pure.psu.edu/en/publications/vsm-act-r-toward-using-cognitive-architecture-for-manufacturing-s" target="_blank">symbolic cognitive architectures</a> and their <a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/35610" target="_blank">integration with neural models</a> to build explainable, human like cyber-physical AI systems, including <a href="https://journals.sagepub.com/doi/10.1177/29498732251377341" target="_blank">language models</a>, <a href="https://books.google.com/books?hl=zh-CN&lr=&id=8gtyEQAAQBAJ&oi=fnd&pg=PA169&ots=emm4hDj60u&sig=LxP3-0kxC3ZU9zQM5ia3EkeuE-U#v=onepage&q&f=false" target="_blank">autonomous agents</a>, and robotics.
 
