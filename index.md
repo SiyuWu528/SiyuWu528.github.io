@@ -14,6 +14,8 @@ I am interested in understanding how the mind works. I study <a href="https://pu
 Prior to my Ph.D., I earned my M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent based modeling & connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>.
 <!----In my life, I dance, sing, walk, and cook.--->
 # Recent news
+May 2026: On May 6, I will be at the UMichigan to present a talk titled "Teaming Symbolic Cognitive Architectures (Soar) and Foundation Models Toward General-Purpose Robotics: Current Work and Future Directions" at the <a href="https://soar.eecs.umich.edu/workshops/45/">2026 Soar Workshop</a> hosted by the <a href="https://integratedcognition.ai/">Center for Integrated Cognition</a>. I look forward to the discussion!
+
 April 2026: Invited as a reviewer for IEEE Transactions on Mechatronics, and Frontiers in Computer Science.
 
 March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC)</a> by the College of IST.
