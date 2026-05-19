@@ -34,15 +34,6 @@ Jan 2026: Invited as a reviewer for NeSy 2026.
 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs) for oral presentation.--->
 <!---- **Aug 2024**: Completed internship at <a href= "https://www.bosch-ai.com/"> Bosch Center for AI</a> advised by <a href="https://carnegiebosch.cmu.edu/team/bios/oltramari-alessandro.html"> Dr. Alessandro Oltramari</a>, collaborated with <a href="https://www.bosch.com/research/about-bosch-research/our-research-experts/cory-henson/"> Dr. Cory Henson</a>, and <a href="https://www.bosch.us/news-and-stories/jonathan-francis/"> Dr. Jonathan Francis </a>. <br>--->
 
-# Patents
-- **System and Method for a Cognitive Architecture Utilized in Manufacturing**.<br>
-<u>Siyu Wu</u>, and Alessandro Oltramari<br>
-Pending, Bosch LLC, 2024. <br>
-
-- **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
-Dan Kushnir, and <u>Siyu Wu</u> <br>
-Unissued patent application , Bell labs, Nokia, 2025.
-
 # Selected publications
 - **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**.<br>
 Christian Wasta, <u>Siyu Wu</u>, Frank E. Ritter.<br>
@@ -105,6 +96,15 @@ Master Theses <br>
     [slides](https://siyuwu528.github.io/images/Intern_V3.pdf)
 - 2021 Instrutional Tech intern at <a href= "https://www.brex.com/?ref_code=pmk_g_g_19486703726_141821765741_kwd-977611001_643825738047_brex_e_CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE&qgad=643825738047&qgterm=brex&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s6ulaoma1857q1FNijIVXEikIlhdW4-jhLg7GM_qy_e8R-lgq2wXuBoC_U8QAvD_BwE">Brex</a>. <br>
     [portfolio](https://shannonsiyuwu.s3.us-west-1.amazonaws.com/Brex+Bank+connection/story.html) <br>
+
+# Patents
+- **System and Method for a Cognitive Architecture Utilized in Manufacturing**.<br>
+<u>Siyu Wu</u>, and Alessandro Oltramari<br>
+Pending, Bosch LLC, 2024. <br>
+
+- **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
+Dan Kushnir, and <u>Siyu Wu</u> <br>
+Unissued patent application , Bell labs, Nokia, 2025.
     
 # Selected talks
 - HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research</a>, Aug 2025.<br>
