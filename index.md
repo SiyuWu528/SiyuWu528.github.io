@@ -41,7 +41,7 @@ Pending, Bosch LLC, 2024. <br>
 
 - **HARP: Human-like Robot Adaptation through Remediation and Memory Driven Planning**.<br>
 Dan Kushnir, and <u>Siyu Wu</u> <br>
-Submitted for patenting review, Bell labs, Nokia, 2025.
+Unissued patent application , Bell labs, Nokia, 2025.
 
 # Selected publications
 - **CogDriver: The Longest-Running Autonomous Driving Cognitive Model Exhibits Human Factors**.<br>
