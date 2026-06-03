@@ -14,6 +14,8 @@ My research focuses on explainable and human-centered AI for decision-making, an
 Prior to my Ph.D., I earned an M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent-based modeling and connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>. I also hold a Bachelor of Finance from Xi’an International Studies University.
 <!----In my life, I dance, sing, walk, and cook.--->
 # Recent news
+June 2026: Invited as a program committee for SBP-BRiMS 2026.
+
 May 2026: Gave a talk at the <a href="https://integratedcognition.ai/news/announcing-the-2026-soar-workshop/">2026 Soar Workshop</a> hosted by the <a href="https://integratedcognition.ai/">Center for Integrated Cognition</a>.
 
 April 2026: Invited as a reviewer for IEEE Transactions on Mechatronics, and Frontiers in Computer Science.
