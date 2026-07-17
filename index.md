@@ -14,6 +14,8 @@ My research develops human-centered AI for decision-making, analytics, and intel
 I obtained my Ph.D. in Informatics from the College of Information Sciences and Technology at Penn State University Park, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>. Before that, I received an M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent-based modeling and connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>.
 # Recent news
 
+May–July 2026: Completed my Ph.D. in Informatics at Penn State and will begin in August as a tenure-track Assistant Professor of AI and Information Sciences and Technology at Penn State Harrisburg, with a faculty co-hire in the Institute for Computational and Data Sciences (ICDS), and an Affiliate Assistant Professor of AI and IST in the College of Information Sciences and Technology at Penn State.
+
 June 2026: Invited as a program committee for SBP-BRiMS 2026.
 
 May 2026: Gave a talk at the <a href="https://integratedcognition.ai/news/announcing-the-2026-soar-workshop/">2026 Soar Workshop</a> hosted by the <a href="https://integratedcognition.ai/">Center for Integrated Cognition</a>.
