@@ -13,8 +13,9 @@ My research develops human-centered AI for decision-making, analytics, and intel
 
 I obtained my Ph.D. in Informatics from the College of Information Sciences and Technology at Penn State University Park, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>. Before that, I received an M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent-based modeling and connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>.
 # Recent news
+Aug 2026: Poster Decoding the Mind of the Machine, with Aritra Bandyopadhyay, Alessandro Oltramari, Jonathan Francis, and Frank Ritter, was accepted for presentation at ACM HCOMP 2026 (extended abstract available soon) & Invited as a reviewer for Journal of Cognitive Engineering and Decision Making.
 
-<!----May–July 2026: Completed my Ph.D. in Informatics at Penn State and will begin in August as a tenure-track Assistant Professor of AI and Information Sciences and Technology at Penn State Harrisburg, with a faculty co-hire in the Institute for Computational and Data Sciences (ICDS), and an Affiliate Assistant Professor of AI and IST in the College of Information Sciences and Technology at Penn State.---> 
+May–Aug 2026: Obtianed Ph.D. in Informatics at Penn State and started tenure-track Assistant Professor of AI and Information Sciences and Technology at Penn State Harrisburg, with a faculty co-hire in the Institute for Computational and Data Sciences (ICDS), and an Affiliate Assistant Professor of AI and IST in the College of Information Sciences and Technology at Penn State.
 
 June 2026: Invited as a program committee for SBP-BRiMS 2026.
 
