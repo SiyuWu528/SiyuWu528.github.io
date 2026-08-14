@@ -17,15 +17,15 @@ Aug 2026: Poster Decode the Mind of the Machine, with Aritra Bandyopadhyay, Ales
 
 May–Aug 2026: Obtained Ph.D. in Informatics at Penn State and started tenure-track Assistant Professor of AI and Information Sciences and Technology at Penn State Harrisburg, with a faculty co-hire in the Institute for Computational and Data Sciences (ICDS), and an Affiliate Assistant Professor of AI and IST in the College of Information Sciences and Technology at Penn State.
 
-June 2026: Invited as a program committee for SBP-BRiMS 2026.
+<!----June 2026: Invited as a program committee for SBP-BRiMS 2026.--->
 
-May 2026: Gave a talk at the <a href="https://integratedcognition.ai/news/announcing-the-2026-soar-workshop/">2026 Soar Workshop</a> hosted by the <a href="https://integratedcognition.ai/">Center for Integrated Cognition</a>.
+<!----May 2026: Gave a talk at the <a href="https://integratedcognition.ai/news/announcing-the-2026-soar-workshop/">2026 Soar Workshop</a> hosted by the <a href="https://integratedcognition.ai/">Center for Integrated Cognition</a>.--->
 
-April 2026: Invited as a reviewer for IEEE Transactions on Mechatronics, and Frontiers in Computer Science.
+<!----April 2026: Invited as a reviewer for IEEE Transactions on Mechatronics, and Frontiers in Computer Science.--->
 
-March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC)</a> by the College of IST.
+<!----March 2026: Selected as a sponsored participant in the <a href="https://hcic.org/" target="_blank"> Human-Computer Interaction Consortium (HCIC)</a> by the College of IST.--->
 
-Jan 2026: Invited as a reviewer for NeSy 2026.
+<!----Jan 2026: Invited as a reviewer for NeSy 2026.--->
 <!----Oct : Recognized with SBP-BRiMs conference scholarship, and become CHI 2026 reviewer.--->
 <!----Oct: Present Cognitive Multi Agent at <a href ="https://www.icds.psu.edu/icds-symposium-2025/">Institute for Computational and Data Sciences (ICDS) Symposium, PSU </a>--->
 <!----Aug: Patent w/ Dan Kushnir @Bell Labs submitted for review.--->
