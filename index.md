@@ -13,10 +13,10 @@ My research develops human-centered AI for decision-making, analytics, and intel
 
 Currently, I am a tenure-track Assistant Professor of AI and Information Sciences and Technology at School of Business Administration, Penn State Harrisburg and <a href="https://icds.psu.edu/">Institute for Computational and Data Sciences (ICDS)</a>. I obtained my Ph.D. in Informatics from the College of Information Sciences and Technology at Penn State University Park, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>. Before that, I received an M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent-based modeling and connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>. I obtained bachelor in Finance and worked as a certified trader (metal) at <a href="https://www.cmegroup.com/tools-information/find-a-broker/jinrui-futures.html" target="_blank">Jinrui Futures Co., Ltd</a> in Shanghai, China.
 # Recent news
-Nov 2026 — Interdisciplinary FinTech and AI research funded by Penn State Harrisburg, in collaboration with Indrit Hoxha.
-Oct 2026 — Presented A Neurosymbolic Rural Primary Care Diagnostic Recommender at Penn State Health Milton S. Hershey Medical Center.
-Oct 2026 — Awarded undergraduate research funding in health informatics by Penn State Harrisburg.
-Aug 2026 — Decode the Mind of the Machine, with Aritra Bandyopadhyay, Alessandro Oltramari, Jonathan Francis, and Frank Ritter, accepted for presentation at <a href="https://hcomp.acm.org/2026/">ACM HCOMP 2026</a>; invited to review for the Journal of Cognitive Engineering and Decision Making.
+Nov 2026 — Interdisciplinary FinTech and AI research funded by Penn State Harrisburg, in collaboration with Indrit Hoxha.</br>
+Oct 2026 — Presented A Neurosymbolic Rural Primary Care Diagnostic Recommender at Penn State Health Milton S. Hershey Medical Center.</br>
+Oct 2026 — Awarded undergraduate research funding in health informatics by Penn State Harrisburg.</br>
+Aug 2026 — Decode the Mind of the Machine, with Aritra Bandyopadhyay, Alessandro Oltramari, Jonathan Francis, and Frank Ritter, accepted for presentation at <a href="https://hcomp.acm.org/2026/">ACM HCOMP 2026</a>; invited to review for the Journal of Cognitive Engineering and Decision Making. </br>
 May–Aug 2026 — Earned my Ph.D. in Informatics and joined Penn State Harrisburg as a tenure-track Assistant Professor, with an ICDS co-hire and an affiliate appointment in Penn State's College of Information Sciences and Technology.
 
 <!----June 2026: Invited as a program committee for SBP-BRiMS 2026.--->
