@@ -15,7 +15,7 @@ Currently, I am a tenure-track Assistant Professor of AI and Information Science
 # Recent news
 Nov 2026: Interdisciplinary FinTech + AI research funded. Congratulations to my collaborator Indrit Hoxha, and thank you Penn State Harrisburg!
 
-Oct 2026: Undergraduate research grant get funded. Thank you Penn State Harrisburg!
+Oct 2026: Undergraduate research grant in health informatics get funded. Thank you Penn State Harrisburg!
 
 Aug 2026: Poster Decode the Mind of the Machine, with Aritra Bandyopadhyay, Alessandro Oltramari, Jonathan Francis, and Frank Ritter, was accepted for presentation at <a href="https://hcomp.acm.org/2026/">ACM HCOMP 2026</a> (extended abstract available soon) & Invited as a reviewer for Journal of Cognitive Engineering and Decision Making.
 
