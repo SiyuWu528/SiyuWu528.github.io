@@ -142,4 +142,4 @@ I am now welcoming one undergraduate (ideally) or graduate student to work with 
 <!---Educated (Tara Westover)<br>--->
 <!---The happiness effect (Donna Freitas) <br>--->
 <!---From crook to cook (Snoop Dogg)<br>--->
-(Last updated: Apr 2026)
+(Last updated: Oct 2026)
