@@ -13,7 +13,7 @@ My research develops human-centered AI for decision-making, analytics, and intel
 
 Currently, I am a tenure-track Assistant Professor of AI and Information Sciences and Technology at School of Business Administration, Penn State Harrisburg. I obtained my Ph.D. in Informatics from the College of Information Sciences and Technology at Penn State University Park, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>. Before that, I received an M.Sc. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent-based modeling and connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>. I obtained bachelor in Finance and worked as a certified trader (metal) at <a href="https://www.cmegroup.com/tools-information/find-a-broker/jinrui-futures.html" target="_blank">Jinrui Futures Co., Ltd</a> in Shanghai, China.
 # Recent news
-Nov 2026: Interdisciplinary FinTech + AI research funded. Congratulations to my collaborator Indrit Hoxha, and thank you Penn State Harrisburg!
+Nov 2026: Interdisciplinary FinTech + AI research funded. Congratulations to my collaborator Indrit Hoxha, and thank you Penn State Harrisburg! & Gave a talk titled "A neurosymbolic rural primary care diagnostic recommender" @ Penn State Health Milton S. Hershey Medical Center.
 
 Oct 2026: Undergraduate research grant in health informatics get funded. Thank you Penn State Harrisburg!
 
@@ -116,6 +116,7 @@ Dan Kushnir, and <u>Siyu Wu</u> <br>
 Unissued patent application , Bell labs, Nokia, 2025.
     
 # Selected talks
+- A neurosymbolic rural primary care diagnostic recommender, Penn State Health Milton S. Hershey Medical Center, Oct 2026. <br>
 - HARP: Human‑like robot adaptation through remediation and memory driven planning, <a href="https://www.nokia.com/bell-labs/research/air-lab/statistics-data-science/"> Statistics and Data Science Lab, Bell Labs Solutions Research</a>, Aug 2025.<br>
 - From Cognitive Models to LLMs in Decision-making, <a href ="https://integratedcognition.ai/news/2025-soar-workshop/">**2025 Soar Workshop**</a>, <a href ="https://integratedcognition.ai/leadership/#">Center for Integrated Cognition</a>, UMichigan.<br>
 - **<a href="https://midas.umich.edu/future-leaders-summit-2024/">2024 Annual Ethical AI symposium</a>**, Michigan institute for data & AI in society, UMichigan.<br>
@@ -124,10 +125,11 @@ Unissued patent application , Bell labs, Nokia, 2025.
 - LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making, <a href="https://integratedcognition.ai/news/2024-soar-workshop-29-may/">**2024 Soar Workshop**</a>, Center for Integrated Cognition, UMichigan.<br>
      [slides](https://siyuwu528.github.io/images/SoarPresentation_Wu.pdf)<br>
      
-# Grants
--  Cognitive Multi‑Agent Decision Support: Investigating users’ understanding of decision support in the context of neurosymbolic integration using cognitive architectures, Co-PI, <a href ="https://ssri.psu.edu/funding">Social Science Research Institute (SSRI) seed grant, PSU</a>.
+<!---# Grants
+-  Cognitive Multi‑Agent Decision Support: Investigating users’ understanding of decision support in the context of neurosymbolic integration using cognitive architectures, Co-PI, <a href ="https://ssri.psu.edu/funding">Social Science Research Institute (SSRI) seed grant, PSU</a>. --->
   
 # Teaching
+I am no longer maintaining the teaching section on my personal website. I teach a wide range of foundational and interdisciplinary AI courses. Please visit my faculty website at Penn State Harrisburg for the full list of my courses and teaching schedule.
 <!---<img width="50" alt="Screenshot 2025-02-17 at 9 50 50 AM" src="https://github.com/user-attachments/assets/8faae956-f9a2-4086-bac1-eca574c8bd2a" />
 I am now welcoming one undergraduate (ideally) or graduate student to work with me on the topic of neural-symbolic integration for machine planning and reasoning, starting in Fall 2025, with the goal of publishing in the field of neural-symbolic AI. My previous undergraduate mentee has published as the first author in a well-known international conference. If you are interested, please send your CV and a short paragraph describing your research interests to me at sfw5621 at psu dot edu.<br> --->
 - **<a href="https://bulletins.psu.edu/university-course-descriptions/graduate/ist/">IST557 Data Mining</a>**, TA, Fall 2025 & Fall 2024, fundamental for MS and PhD in AI & DS tracks
