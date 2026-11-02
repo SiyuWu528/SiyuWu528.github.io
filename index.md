@@ -12,6 +12,8 @@ I am a neurosymbolic AI researcher specializing in cognitive architectures and e
 Currently I am a tenure-track Assistant Professor of AI and Information Sciences and Technology in the School of Business Administration at Penn State Harrisburg, with co-hire at the <a href="https://icds.psu.edu/">Institute for Computational and Data Sciences (ICDS)</a>. I earned Ph.D. in Informatics from Penn State University, advised by <a href="https://www.frankritter.com/ritter.html">Frank Ritter</a>, and M.S. in Instructional Technology and Learning Sciences from Utah State University, where I studied <a href="https://par.nsf.gov/servlets/purl/10383213">agent-based modeling and connected learning</a> with <a href="https://cehs.usu.edu/itls/projects/ldl/">Hillary Swanson</a>, <a href="https://sites.northwestern.edu/uriwilensky/">Uri Wilensky</a>, and <a href="https://sesp.northwestern.edu/people/faculty/bruce-sherin.html">Bruce Sherin</a>. I had bachelor in Finance and previously worked as a certified metals trader at <a href="https://www.cmegroup.com/tools-information/find-a-broker/jinrui-futures.html" target="_blank">Jinrui Futures Co., Ltd</a> in Shanghai, China.
 
 # Recent news
+Nov 2026 - Invited as a reviewer for Frontiers in Robotics and AI.
+
 Nov 2026 — Interdisciplinary FinTech and AI grant funded by Penn State Harrisburg, with Indrit Hoxha.
 
 Oct 2026 — Presented A Neurosymbolic Rural Primary Care Diagnostic Recommender at Penn State Health Milton S. Hershey Medical Center.
